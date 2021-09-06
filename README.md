@@ -29,4 +29,4 @@ Here are some ideas to get you started:
 	
   ![Django](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white)
   
-  ![Gmail](https://img.shields.io/badge/Gmail-Green?style=flat-square&logo=Gmail&logoColor=white&link=mailto:snugyun01@gmail.com)](mailto:lhm5689@gmail.com)
+  [![Gmail](https://img.shields.io/badge/Gmail-Green?style=flat-square&logo=Gmail&logoColor=white&link=mailto:snugyun01@gmail.com)](mailto:lhm5689@gmail.com)
