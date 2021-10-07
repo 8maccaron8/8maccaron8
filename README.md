@@ -1,6 +1,7 @@
 ### Hi there 👋
 - 🌱 I’m currently learning data science and web development!
 - 😄 Feel free to ask me!!
+- I am also interested in design.
 
 <!--
 **8maccaron8/8maccaron8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
